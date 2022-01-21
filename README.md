@@ -1,4 +1,6 @@
 # LocalNugetPackagePusher
+Simple tool to create nuget packages and push them to a local repository so you know need to polute the organizations feed.
+
 
 Setup ini file for each project:
 - ProjectPath: Path to CSProj to Build
